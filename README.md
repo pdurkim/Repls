@@ -1,3 +1,3 @@
 # Repls
 Collection of Repls
-Code snippets from practicing JavaScript Algorithms and Data Structures
+Code snippets from practicing JavaScript Data Structures and Algorithms
